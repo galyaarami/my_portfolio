@@ -1,0 +1,822 @@
+/* https://template56006.motopreview.com/  */
+		
+		html { overflow-y: scroll;
+				overflow: auto;
+		}
+		
+		* { margin:0; 
+		   padding:0;
+		}
+		
+        body { width: 100%;
+				height: auto;
+				font-family: 'Ubuntu', sans-serif;
+				font-size: 14px;
+				line-height: 1.42857143;
+				color: #333;
+				background-color: #fff;
+				padding-top:0px;
+         }
+		 
+		 
+			 
+		
+		.main { width: 100%;
+				margin:0 auto;
+				padding-left:0px;
+				
+		}
+		
+
+		
+		.logo { width: 100%;
+				height: 70px;
+				position:fixed;
+				background-color: #fff;
+				border-bottom-style: solid;
+				border-bottom-color: #ccd05d;
+				border-length: 100%;
+				top: 0;
+				left:0;
+				z-index: 10;
+				
+				
+		}
+		
+		.topmenu ul li {display: inline;
+						}
+		
+		
+		.galya {width: 150px;
+				height: 60px;
+				float:left;
+				margin: 0 auto;
+				padding-top:12px;
+				padding-left: 20px;
+		}
+		
+		
+		
+		.topmenu {width: 55%;
+				height: 60px;
+				padding-top: 5px;
+				float:right;
+				padding-top:20px;
+		}
+		
+		
+		.topmenu ul, li, a { 
+		  color: black;
+		 list-style: none;
+		 text-decoration: none;
+		 margin-bottom:20px;
+		 position: relative;
+		 padding-left:10px;
+		 
+		}
+		
+		
+		.topmenu li {padding: 10px;
+					 
+		}				
+		
+		li:hover {
+           background-color: #ccd05d;
+        }
+		
+		@media screen and (max-width: 997px) {
+		.topmenu ul 
+		{display: none;
+		}
+		}
+		
+		
+		
+		.center { width:100%;
+				height: 300px;
+				margin-top:70px;
+				background-size: 100%;
+				background-position: left top;
+				background-repeat: no-repeat;
+				background-attachment: scroll;
+				margin-right: 40px;
+		} 
+		
+		
+		.container {width: 780px;
+					height: 260px;
+					margin: 0;
+					color: #ffffff;
+					padding-bottom:20px;
+		            }
+		
+		
+		.greeting h1 {font-size:80px ;}
+		
+		
+		.greeting h2 {font-size: 19px;}
+		
+		.secondpage { width:100%;
+					  height:100%;
+					 margin-top: 40px;
+					 margin-left: 40px;
+		}
+		
+		.onethired , .twothired , .threethired {width:30%;
+		float: left;
+		}
+		
+		.onethired, .twothired, .threethired, h3 { 	
+					   font-style: normal;
+						color: #303334;
+						font-size: 32px;
+						line-height: 1.2;
+						letter-spacing: 0px;
+						font-weight: 400;
+		
+		}
+		
+		.secondpage {width: 100%;
+					height: auto;
+		}
+		.secondpage,   p {font-weight: 400;
+				      font-style: normal;
+						color: #a0a2a3;
+						font-size: 13px;
+						line-height: 1.4;
+						letter-spacing: 0px;
+						font-weight: 400;
+						font-style: normal;
+		
+		}
+		
+		.pic1link img{ width:280px;
+						height: 170px;
+		}
+		
+		.readMore a { width:100px;
+					height: 13px;
+					font-size: 11px;
+					color: #a0a2a3;
+					font-style: normal;
+					margin-top: 20px;
+					margin-left: 10px;
+			        padding-right: 130px;
+					float:left;
+		}
+	    
+		.twothired { margin-left: 20px;
+		}
+		
+		
+		.threethired { padding-left: 20px;
+		}
+	
+	
+	
+		@media (max-width: 897px){
+		.onethired , .twothired , .threethired { width: 600px;
+		 height: auto;
+		 vertical-align: middle;
+		 
+		 }
+		 .onethired  .pic1link  img {  width:370px;
+			height: 225px;
+			vertical-align: middle;
+			padding-left: 90px;
+						
+		 }
+		 
+		 .twothired  .pic1link  img {  width:370px;
+			height: 225px;
+			vertical-align: middle;
+			padding-left: 90px;			
+		 }
+		 
+		 .threethired  .pic1link  img {  width:370px;
+			height: 225px;
+			vertical-align: middle;
+			padding-left: 90px;			
+		 }
+		 
+		                        }
+								
+	
+	
+		.clear{ clear:both;
+		}
+			  
+		.thirdpage {margin-top: 20px;
+					width:100%;
+					height: 450px;
+					margin-top:70px;
+					background-size: cover;
+					background-position: left top;
+					background-repeat: no-repeat;
+					background-attachment: scroll;
+					
+					}
+		
+					
+		.distance  { width:100%;
+					height:30px;
+				}
+					
+		.insider { width: 95%;
+				   height: 79%;
+				   margin: 0 auto;
+				   background-color:#fff;
+				   display:block;
+				   
+				          
+		}
+		
+		
+		
+		
+		.upper { 
+				font-style: normal;
+				line-height: 1.2;
+                letter-spacing: 0px;
+				    display: block;
+				}
+		
+		
+		
+		.parts { width: 95%;
+				height: 30%;
+		   margin-left:20px;
+				color:black;
+				    display: block;
+				
+				
+				
+		}
+		
+		.part1 { width:30%;
+				height: 30%;
+				float:left;
+				margin-top:20px;
+				
+		}
+		.part2 { width:30%;
+				height: 30%; 
+				float:left;
+				margin-top:20px;
+				margin-left: 35px;
+				
+				
+		}
+		
+		
+		.part3 { width:30%;
+				height: 30%;
+				float:right;
+				margin-top:20px;
+				margin-left: 20px;
+				
+				}
+		
+		
+		.readmore1 { width: 100px;
+					height: 40px;
+					padding-top: 150px;
+					margin-left: 10px;
+					}
+		
+		
+		
+		@media (max-width: 897px){
+		.thirdpage
+		{ background-size: 100% 100%;
+		width: 100%;
+		height:480px;
+		}
+		
+		
+		.insider
+
+		{  width: 100%;
+		 margin: 20px 15px 20px 15px;
+		 width: 750px;
+		 height: 400px;
+		 position:relative;
+		
+		 
+		 }
+		
+		.parts { margin-button:20px;
+				width: 850px;
+				height: 300px;
+		}
+		
+		.part1, .part2, .part3 { width: 650px;
+				height:70px;
+				margin: 5px;		
+				
+		}
+		
+		.part1 { margin-top: 20px;
+		}
+		
+		.part3 {float:left;
+				margin-top: 20px;}
+		
+		.readmore1 { padding-top: 0px;}
+		
+		
+								}
+		
+		
+		.clear{ clear:both;}
+		
+		.fourthpage {width:100%;
+					height: 500px;
+					position: relative;
+					top: 0px;
+		
+		}
+		
+		
+		
+		
+		
+		
+		.instead  { width: 90%;
+					height: 20px;
+					padding-left : 40px;
+					
+		}
+		.clients p { padding-top: 40px;
+					padding-left : 40px;
+				   font-size: 25px;
+				   color: #fff;	   
+		}
+		
+			
+		
+	     .moreinfo { width: 100%;
+				 height: 320px;
+				 
+		}
+		 
+		.mas1 { width: 50%;
+				height: 180px;
+				margin-left: 40px;
+				margin-top: 20px;
+				float: left;
+				
+		}
+		
+		
+		.mas2 { width: 40%;
+				height: 180px;
+				float: right;
+				margin-right: 5px;
+				margin-top:18px;
+				
+				
+		}
+		
+		@media (max-width: 897px){
+		.mas1
+		{ width: 100%;
+				height: 60px;
+				margin-left: 40px;
+				margin-top: 20px;
+				float: left;
+		}
+								}
+		/* 3rdi pakum*/
+		
+		@media (max-width: 897px){
+		.mas2
+		{ width: 100%;
+				height: 90px;
+				margin-left: 40px;
+				float: left;
+		}
+		                          }
+		
+		
+		
+		
+		
+		.fifthpage {width: 100%;
+					height: 895px;
+			background-color:#ccd05d;
+			padding-top: 40px;
+	    }
+      
+		.upside {width: 100%;
+				   height: 85px;
+				   
+			
+		}
+		.projects  { width: 25%;
+				   height: 35px;
+		}
+		.projects  p {
+				   font-size: 25px;
+				   color: #fff;
+				   padding-left: 40px;
+		}
+		
+		.answers p{ color: #fff;
+				   padding-left: 40px;
+				   padding-top: 15px;
+		}
+		
+		
+		.linkOfProjects a:hover { color: black;
+		}
+		
+		.linkOfProjects a { color: white;
+						font-size: 16px;
+		}
+		
+		
+		
+		.linkOfProjects {width: 18%;
+					height: 20px;
+					float: right;
+					color: #fff;
+					margin-bottom: 40px;
+					float:right;
+		}
+		.hallcontent{margin-left: 80px;
+					width: 90%;
+					height: 800px;
+					background-color:#ccd05d;}
+		
+	/*ARAJIN NKAR */	
+	
+	.container1, .container2, .container3, .container4,.container5,.container6 { width: 300px;
+					height: 200px;
+					margin-top: 30px;
+					float:left;
+					margin-left: 40px;
+			
+		}
+		
+	
+		
+		.nkar      { width: 250px;
+				      height: 300px;
+				      background-image: url("IMG_1786.jpg");
+					  background-size:contain;
+					  background-repeat: no-repeat;
+					  position: relative; 
+					  
+		}
+		
+		.nkarbb     { width: 250px;
+				      height: 300px;
+				      background-image: url("IMG_1802.jpg");
+					  background-size: contain;
+					  background-repeat: no-repeat;
+					  position: relative; 
+					  
+		}
+		
+		.nkarcc     { width: 250px;
+				      height: 300px;
+				      background-image: url("IMG_1626-2.jpg");
+					  background-size: contain;
+					  background-repeat: no-repeat;
+					  position: relative; 
+					  
+		}
+		
+		.nkardd     { width: 250px;
+				      height: 300px;
+				      background-image: url("IMG_0570.jpg");
+					  background-size: contain;
+					  background-repeat: no-repeat;
+					  position: relative; 
+					  
+		}
+		
+		.nkaree     { width: 250px;
+				      height: 300px;
+				      background-image: url("IMG_0949.jpg");
+					  background-size: contain;
+					  background-repeat: no-repeat;
+					  position: relative; 
+					  
+		}
+		.nkarff     { width: 250px;
+				      height: 300px;
+				      background-image: url("IMG_1842-2.jpg");
+					  background-size: contain;
+					  background-repeat: no-repeat;
+					  position: relative; 
+					  
+		}
+		
+		
+		.nkar2,  .nkar22, .nkar33, .nkar44,.nkar55, .nkar66 {
+				width: 100%;
+				background-color: #ccd05d;
+				transition: 0.5s;
+				opacity: 0.9;
+				position: absolute; 
+				top:100px; 
+				height:0px;
+					}
+				
+					
+			
+		.nkar:hover .nkar2 {
+			 top: 0px;
+			 height: 100%;
+			}
+			
+			
+		.nkarbb:hover .nkar22 {
+			 top: 0px;
+			 height: 250px;
+			}
+			
+		.nkarcc:hover .nkar33 {
+			 top: 0px;
+			 height: 100%;
+			}
+			
+		.nkardd:hover .nkar44 {
+			 top: 0px;
+			 height: 200px;
+			}
+		
+		.nkaree:hover .nkar55 {
+			 top: 0px;
+			 height: 200px;
+			}
+		
+		.nkarff:hover .nkar66 {
+			 top: 0px;
+			 height: 200px;
+			}
+			
+			
+			
+		.text { width: 100%;
+				height: 20px;
+				margin-top: 80px;
+				text-align:center;} 
+				
+				
+		.text p { color: white;
+				  font-size: 20px;
+				  text-align: center;
+		}
+			
+		
+		.nkar .text {display:none;
+		}
+		
+		.nkarbb .text {display:none;
+		}
+		
+		.nkarcc .text {display:none;
+		}
+		.nkardd .text {display:none;
+		}
+		.nkaree .text {display:none;
+		}
+		.nkarff .text {display:none;
+		}
+		
+			
+			
+		.nkar:hover .text { display:block;
+		}
+		.nkarbb:hover .text { display:block;
+		}
+		.nkarcc:hover .text { display:block;
+		}
+		.nkardd:hover .text { display:block;
+		}
+		.nkaree:hover .text { display:block;
+		}
+		.nkarff:hover .text { display:block;
+		}
+		
+			
+	@media (max-width: 897px){
+		.nkar, .nkarbb,  .nkarcc
+		{ width: 40%;
+				height: 350px;		
+		}
+		
+		.fifthpage {width: 100%;
+					height: 2650px;
+			background-color:#ccd05d;
+			background-size:contain;
+			padding-top: 40px;
+	    }
+		
+		 .nkardd,  .nkaree, .nkarff
+		{ width: 480px;
+				height: 350px;	
+				
+		}
+		
+		
+		.nkar2, .nkar22, .nkar33  { width: 100%;
+				height: 300px;
+				position: absolute; 
+				top: 320px;	
+				
+		}
+		
+		 .nkar44,.nkar55,.nkar66  { width: 100%;
+				height: 300px;
+				position: absolute; 
+				top: 320px;	
+
+			
+		}
+		
+		
+		.nkar:hover .nkar2 {
+			 height: 100%;
+			}
+			
+		.nkarbb:hover .nkar22 {
+			 height: 100%;
+			}	
+			
+		.nkarcc:hover .nkar33 {
+			 height: 100%;
+			}	
+		.nkardd:hover .nkar44 {
+			 height: 100%;
+			}	
+		.nkaree:hover .nkar55 {
+			 height: 100%;
+			}	
+		.nkarff:hover .nkar66 {
+			 height: 100%;
+			}	
+			
+		.container1 , .container2 , .container3,.container4 ,.container5,.container6 { width: 1200px;
+				height: 350px;
+				margin-left:120px;
+				
+		}
+		
+		
+		.text { width: 100%;
+				height: 20px;
+				margin-top: 140px;
+				text-align:center;}
+				
+				
+		.hallcontent{margin-left: 10px;
+					 background:#ccd05d;}
+				
+		                        }
+
+		.footer {width: 100%;
+				 height: 800px;
+				 background-color:#fff;
+				 margin-top: 40px;}
+				 
+				 
+	    .whyUS p {width: 100%;
+				  margin-top: 80px;
+				  margin-left: 40px;
+				font-size: 25px;
+				color: black;
+				
+		}
+		
+		.catch p { width: 100%;
+				   margin-left: 40px;
+		}
+		
+		.twoparts { width: 90%;
+					height: 250px;
+					margin-top: 50px;
+					margin-left: 40px;
+					
+		}
+
+		.partfirst	 { width: 45%;
+					  height: 100%;
+					       
+						float:left;
+					 
+		}
+		.partfirst p	 { font-size: 13px;
+						line-height: 1.4;
+						letter-spacing: 0px;
+						letter-spacing: 0px;
+					 
+		}
+						
+		.partlast  {width: 45%;
+					  height: 100%;
+					   float:right;
+					   margin-left: 10px;
+		}
+		
+		@media (max-width: 897px){
+			.twoparts { width: 90%;
+					height: 100$;
+					margin-top: 20px;
+					margin-left: 30px;
+					
+		}
+		.partfirst 
+		{ width: 90%;
+				height: 95%;
+				margin-top:10px;
+				margin-left: 10px;
+		}
+		
+		.partlast
+		{ width: 100%;
+				height: 95%;
+				float:left;
+				margin-right: 90px;
+		}
+								}
+								
+		.laststeps	{width: 1600px;
+					height: 400px;
+					margin-top: 60px;
+					margin-left: 90px;
+					display: inline;}				
+		
+		
+		.laststeps p {font-size:12px;}
+					
+		.copyright {width: 350px;
+					height: 20px;
+					float: left;
+					margin-left: 190px;}
+					
+		.copyright a {color:#a0a2a3}						
+								
+		.copyright a:hover {
+           color: #ccd05d;
+        }
+		
+		.icons {	width: 200px;
+				height:80px;
+				margin-left: 30px;
+				color: #ccd05d;
+				float: left;
+				
+				}
+		
+		.contact2 { width: 160px;
+				  height:80px;
+				  float: left;
+				  
+			
+		}
+         .contact2 a {color:#a0a2a3; }
+						}
+		
+		
+		@media (max-width: 897px){
+			.map {width: 100%;
+					height: 200px;
+					margin-bottom: 100px;
+					}
+					
+					
+			.laststeps	{width: 100%;
+					height: 400px;
+					margin-top: 90px;
+					padding-left: 80px;
+					
+			}
+			
+			
+			.copyright {width: 60%;
+					height: 40px;
+					margin-top: 140px;
+					padding-right: 100px;}
+					
+				.icons {	width: 60%;
+				height:40px;
+				padding-left: 30%;
+				color: #ccd05d;
+				
+				
+				
+				}
+		
+		.contact2 { width: 30%;
+				  height:80px;
+				  margin-left: 200px ;
+				  margin-top: 10px;
+				  	
+					
+					
+		}
+           
